@@ -13,8 +13,8 @@
   <img src="https://raw.githubusercontent.com/VishardMehta/VishardMehta/main/animated-divider.svg" alt="animated divider"/>
 </p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishardmehta/vishardmehta/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishardmehta/vishardmehta/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vishardmehta/vishardmehta/output/pacman-contribution-graph.svg">
 </picture>
 
