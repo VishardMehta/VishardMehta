@@ -1,6 +1,6 @@
 <!-- # Welcome to Vishard Mehta's GitHub! -->
 
-<p align="center">
+<p align="center"> 
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=33&pause=700&color=4DC3FF&center=true&width=550&lines=Welcome+To+Vishard's+Profile;Computer+Engineer;🍪" 
     alt="Software developer"
