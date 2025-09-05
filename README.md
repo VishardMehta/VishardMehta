@@ -85,3 +85,7 @@ I’ve also taken up leadership roles, guiding teams and contributing to collabo
     🌐 : <b>textdrop.vercel.app</b>
   </a>
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VishardMehta/VishardMehta/main/animated-divider.svg" alt="animated divider"/>
+</p>
