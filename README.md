@@ -82,13 +82,13 @@ I’ve also taken up leadership roles, guiding teams and contributing to collabo
 
 <div align="center">
   <a href="https://textdrop.vercel.app/" target="_blank">
-    🌐 : <b>textdrop.vercel.app</b>
+    🌐 : <b> Textdrop </b>
   </a>
 </div>
 
 <div align="center">
   <a href="https://vishardmehta.vercel.app/" target="_blank">
-    🌐 : <b>textdrop.vercel.app</b>
+    🌐 : <b> Portfolio </b>
   </a>
 </div>
 
