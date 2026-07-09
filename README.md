@@ -1,12 +1,18 @@
 <!-- # Welcome to Vishard Mehta's GitHub! -->
 
-<p align="center"> 
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=33&pause=700&color=4DC3FF&center=true&width=550&lines=Welcome+To+Vishard's+Profile;Computer+Engineer;🍪" 
-    alt="Software developer"
-    style="padding: 8px 0; max-height: 150px;" 
-  />
+<!-- ▼▼▼ OPTION B — THE COOKIE BAKES ▼▼▼ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VishardMehta/VishardMehta/main/header-cookie-bake.svg" alt="Vishard Mehta" width="100%"/>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=E8D5A9&center=true&vCenter=true&width=620&lines=ML+%C2%B7+Systems+%C2%B7+Quant;I+build+things+that+ship;Somewhere+between+a+C%2B%2B+pointer+and+a+React+component;%F0%9F%8D%AA" alt="typing intro"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VishardMehta/VishardMehta/main/divider-pulse.svg" alt="" width="100%"/>
+</p>
+
 
 <!-- Animated SVG divider (placed in repo root) -->
 <p align="center">
