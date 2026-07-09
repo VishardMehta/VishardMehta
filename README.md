@@ -12,9 +12,6 @@
 </p>
 
 <!-- ▼▼▼ OPTION B — THE COOKIE BAKES ▼▼▼ -->
-<p align="center">
-  <img src="./header-cookie-bake.svg" alt="Vishard Mehta" width="100%"/>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=E8D5A9&center=true&vCenter=true&width=620&lines=ML+%C2%B7+Systems+%C2%B7+Quant;I+build+things+that+ship;Somewhere+between+a+C%2B%2B+pointer+and+a+React+component;%F0%9F%8D%AA" alt="typing intro"/>
@@ -123,14 +120,7 @@ CSE undergrad at **Thapar Institute** (class of '27). I build ML systems that ac
   <a href="https://www.instagram.com/vishard_mehta/"><img src="https://img.shields.io/badge/Instagram-0A0E14?style=for-the-badge&logo=instagram&logoColor=E8D5A9" /></a>
 </div>
 
-<br>
-
-<!-- 🐍 SNAKE eats its way out -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishardMehta/VishardMehta/output-snake/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VishardMehta/VishardMehta/output-snake/github-snake.svg">
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/VishardMehta/VishardMehta/output-snake/github-snake-dark.svg" width="100%">
-</picture>
+<br>m
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=VishardMehta&style=flat-square&color=E8D5A9&label=visitors" alt="Profile Views"/>
