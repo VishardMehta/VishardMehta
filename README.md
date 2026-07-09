@@ -1,8 +1,19 @@
-<!-- # Welcome to Vishard Mehta's GitHub! -->
+<!-- 🍪 Vishard Mehta — profile README -->
+
+<!-- ══════════════════════════════════════════════════════════════
+     TWO HEADER OPTIONS — pick one, delete the other.
+     A = cookie gets eaten (bites + falling crumbs)
+     B = cookie bakes (progress ring + steam)
+     ══════════════════════════════════════════════════════════════ -->
+
+<!-- ▼▼▼ OPTION A — THE COOKIE GETS EATEN ▼▼▼ -->
+<p align="center">
+  <img src="./header-cookie-bite.svg" alt="Vishard Mehta" width="100%"/>
+</p>
 
 <!-- ▼▼▼ OPTION B — THE COOKIE BAKES ▼▼▼ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VishardMehta/VishardMehta/main/header-cookie-bake.svg" alt="Vishard Mehta" width="100%"/>
+  <img src="./header-cookie-bake.svg" alt="Vishard Mehta" width="100%"/>
 </p>
 
 <p align="center">
@@ -10,34 +21,27 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VishardMehta/VishardMehta/main/divider-pulse.svg" alt="" width="100%"/>
+  <img src="./divider-pulse.svg" alt="" width="100%"/>
 </p>
 
-
-<!-- Animated SVG divider (placed in repo root) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VishardMehta/VishardMehta/main/animated-divider.svg" alt="animated divider"/>
-</p>
+<!-- 🟡 PACMAN eats the contribution graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishardmehta/vishardmehta/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishardmehta/vishardmehta/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vishardmehta/vishardmehta/output/pacman-contribution-graph.svg">
 </picture>
 
+## `> whoami`
 
+CSE undergrad at **Thapar Institute** (class of '27). I build ML systems that actually ship — multi-agent NL→SQL engines, real-time pose-based exercise classifiers, and quant models that trade live on Numerai.
 
-
-### About :
-
-I’m Vishard Mehta, a passionate Software Engineer with a strong foundation in Frontend Development, Databases, and hands-on experience in AI/ML projects. Built some meaningful and technically solid projects that reflect my curiosity and dedication.
-
-I’ve also taken up leadership roles, guiding teams and contributing to collaborative success — whether it’s through technical support, organizing events, or just stepping up when it matters. I’m always eager to learn, improve, and take on challenges that push my limits.
+- 🔭 **Currently:** deep in C++ DSA, refining regime-detection ensembles, shipping side projects faster than I can name them
+- ⚡ **Comfort zone:** anywhere the math meets the machine — model design, backends, and the glue in between
+- 🎯 **Chasing:** ML/AI research + engineering roles where the problems are hard and the feedback loops are fast
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VishardMehta/VishardMehta/main/partition-divider.svg" alt="section divider" style="width: 100%; height: 8px;" />
+  <img src="./divider-pulse.svg" alt="" width="100%"/>
 </p>
-
-### My skills:
 
 ## `> stack --list`
 
@@ -58,9 +62,8 @@ I’ve also taken up leadership roles, guiding teams and contributing to collabo
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VishardMehta/VishardMehta/main/divider-pulse.svg" alt="" width="100%"/>
+  <img src="./divider-pulse.svg" alt="" width="100%"/>
 </p>
-
 
 ## `> git log --stat`
 
@@ -87,8 +90,17 @@ I’ve also taken up leadership roles, guiding teams and contributing to collabo
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VishardMehta/VishardMehta/main/divider-pulse.svg" alt="" width="100%"/>
+  <img src="./divider-pulse.svg" alt="" width="100%"/>
 </p>
+
+## `> ls ./projects`
+
+| Project | What it does | Built with |
+|---|---|---|
+| 🧠 **Querix** | Multi-agent natural-language → SQL engine with RAG over schemas | LangChain · FAISS · Llama 3.x · FastAPI · React/TS |
+| 🏋️ **Fitify** | Real-time exercise classification from webcam pose landmarks | BlazePose · Bidirectional GRU · ONNX |
+| 🌾 **BazaarGrid** | Village-branded agri-commerce platform, designed end-to-end | Full-stack · UML-first system design |
+| 📝 **Textdrop** | Minimal text sharing on the web → [try it](https://textdrop.vercel.app/) | Vercel |
 
 ## `> cat achievements.txt`
 
@@ -99,7 +111,7 @@ I’ve also taken up leadership roles, guiding teams and contributing to collabo
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VishardMehta/VishardMehta/main/divider-pulse.svg" alt="" width="100%"/>
+  <img src="./divider-pulse.svg" alt="" width="100%"/>
 </p>
 
 ## `> ping vishard`
@@ -113,22 +125,13 @@ I’ve also taken up leadership roles, guiding teams and contributing to collabo
 
 <br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VishardMehta&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
+<!-- 🐍 SNAKE eats its way out -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishardMehta/VishardMehta/output-snake/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VishardMehta/VishardMehta/output-snake/github-snake.svg">
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/VishardMehta/VishardMehta/output-snake/github-snake-dark.svg" width="100%">
+</picture>
 
 <div align="center">
-  <a href="https://textdrop.vercel.app/" target="_blank">
-    🌐 : <b> Textdrop </b>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=VishardMehta&style=flat-square&color=E8D5A9&label=visitors" alt="Profile Views"/>
 </div>
-
-<div align="center">
-  <a href="https://vishardmehta.vercel.app/" target="_blank">
-    🌐 : <b> Portfolio </b>
-  </a>
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VishardMehta/VishardMehta/main/animated-divider.svg" alt="animated divider"/>
-</p>
