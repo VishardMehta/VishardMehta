@@ -74,7 +74,7 @@
   </text>
   <text x="500" y="122" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="8" fill="url(#sweepA)" filter="url(#glowA)">VISHARD MEHTA</text>
 
-  <text x="500" y="160" text-anchor="middle" font-family="'Courier New', monospace" font-size="17" fill="#8B949E">&gt; ml_engineer &amp;&amp; quant_dev &amp;&amp; systems_thinker</text>
+  <text x="500" y="160" text-anchor="middle" font-family="'Courier New', monospace" font-size="17" fill="#8B949E">&gt; ml_engineer &amp;&amp; finance_bro &amp;&amp; systems_thinker &amp;&amp; swe.exe</text>
   <rect x="762" y="146" width="9" height="17" fill="#C68642">
     <animate attributeName="opacity" calcMode="discrete" values="1;0" keyTimes="0;0.5" dur="1.1s" repeatCount="indefinite"/>
   </rect>
