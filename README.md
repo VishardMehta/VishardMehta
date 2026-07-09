@@ -33,14 +33,28 @@ I’ve also taken up leadership roles, guiding teams and contributing to collabo
 
 ### My skills:
 
+## `> stack --list`
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cpp,c,py,js,r,bash,matlab,html,css" />
+
+**ML & Data**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,postgres" />
+
+**Web & Tools**
+
+<img src="https://skillicons.dev/icons?i=react,npm,postman,figma,git,github,pycharm,arduino,ps,ai" />
+
+</div>
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,bash,html,css,js,react,postgres,postman,figma,ps,ai,git,github,matlab,npm,opencv,pycharm,py,r,sklearn,tensorflow" />
-  </a>
+  <img src="https://raw.githubusercontent.com/VishardMehta/VishardMehta/main/divider-pulse.svg" alt="" width="100%"/>
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VishardMehta/VishardMehta/main/partition-divider.svg" alt="section divider" style="width: 100%; height: 8px;" />
-</p>
+
 
 ## `> git log --stat`
 
