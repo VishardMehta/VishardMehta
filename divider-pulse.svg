@@ -1,0 +1,33 @@
+<svg width="1000" height="24" viewBox="0 0 1000 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="trail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4DC3FF" stop-opacity="0"/>
+      <stop offset="1" stop-color="#4DC3FF" stop-opacity="0.9"/>
+    </linearGradient>
+    <filter id="dotglow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- base circuit line -->
+  <line x1="0" y1="12" x2="1000" y2="12" stroke="#1B2431" stroke-width="2"/>
+
+  <!-- circuit nodes -->
+  <rect x="246" y="8" width="8" height="8" transform="rotate(45 250 12)" fill="#1B2431" stroke="#4DC3FF" stroke-width="1">
+    <animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="4s" begin="0.9s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="496" y="8" width="8" height="8" transform="rotate(45 500 12)" fill="#1B2431" stroke="#E85D9E" stroke-width="1">
+    <animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="4s" begin="1.9s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="746" y="8" width="8" height="8" transform="rotate(45 750 12)" fill="#1B2431" stroke="#FFB000" stroke-width="1">
+    <animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="4s" begin="2.9s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- travelling comet -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="-80 0" to="1080 0" dur="4s" repeatCount="indefinite"/>
+    <rect x="-60" y="11" width="60" height="2" fill="url(#trail)"/>
+    <circle cx="0" cy="12" r="3" fill="#4DC3FF" filter="url(#dotglow)"/>
+  </g>
+</svg>
