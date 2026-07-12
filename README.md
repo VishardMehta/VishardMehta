@@ -70,7 +70,7 @@ CSE undergrad at **Thapar Institute** (class of '27). I build ML systems that ac
      won't render markdown images inside HTML block tags. -->
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=VishardMehta&background=0A0E14&ring=E8D5A9&fire=C68642&currStreakLabel=E8D5A9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=1B2431" alt="streak"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=vishardmehta&background=0A0E14&ring=E8D5A9&fire=C68642&currStreakLabel=E8D5A9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=1B2431" alt="streak"/>
 </p>
 
 <p align="center">
